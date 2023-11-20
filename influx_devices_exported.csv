@@ -1,0 +1,547 @@
+Type,Sensorid,LocationGeneral,LocationArea,LocationSpecific,Description,Details
+Setra Power Battalion 48,ELEUV0202SM3Pc,UVA,,2nd Floor Olsson,Right Panel Phase C,circuit 2L2
+Setra Power Battalion 48,ELEUV0202SM3Pb,UVA,,2nd Floor Olsson,Right Panel Phase B,circuit 2L2
+Setra Power Battalion 48,ELEUV0202SM3Pa,UVA,,2nd Floor Olsson,Right Panel Phase A,circuit 2L2
+Setra Power Battalion 48,ELEUV0202SM3Oc,UVA,,210 Olsson,Door Opener Elevator Lobby,circuit 24
+Setra Power Battalion 48,ELEUV0202SM3Ob,UVA,,206 Olsson,Exhaust fan,circuit 22
+Setra Power Battalion 48,ELEUV0202SM3Oa,UVA,,208 Olsson,Receptacles,circuit 20
+Setra Power Battalion 48,ELEUV0202SM3Mc,UVA,,270 Olsson,Receptacles,circuit 23
+Setra Power Battalion 48,ELEUV0202SM3Ma,UVA,,210 Olsson,Door Controls Attic,circuit 19
+Setra Power Battalion 48,ELEUV0202SM3Kc,UVA,,208 Olsson,Receptacles,circuit 18
+Setra Power Battalion 48,ELEUV0202SM3Kb,UVA,,256 Olsson,Lighting,circuit 16
+Setra Power Battalion 48,ELEUV0202SM3Ja,UVA,,206 Olsson,Receptacles,circuit 37
+Setra Power Battalion 48,ELEUV0202SM3Ib,UVA,,270 Olsson,Lighting,circuit 15
+Setra Power Battalion 48,ELEUV0202SM3Ia,UVA,,213 Olsson,Lighting,circuit 13
+Setra Power Battalion 48,ELEUV0202SM3Hb,UVA,,201 Olsson,Receptacles,circuit 34
+Setra Power Battalion 48,ELEUV0202SM3Gc,UVA,,203 Olsson,Lighting,circuit 12
+Setra Power Battalion 48,ELEUV0202SM3Gb,UVA,,210 Olsson,Lighting,circuit 10
+Setra Power Battalion 48,ELEUV0202SM3Fc,UVA,,206 Olsson,Receptacles,circuit 35
+Setra Power Battalion 48,ELEUV0202SM3Fb,UVA,,201 Olsson,Receptacles,circuit 33
+Setra Power Battalion 48,ELEUV0202SM3Ec,UVA,,229 Olsson,Office furniture,circuit 11
+Setra Power Battalion 48,ELEUV0202SM3Eb,UVA,,229 Olsson,Office furniture,circuit 9
+Setra Power Battalion 48,ELEUV0202SM3Ea,UVA,,229 Olsson,Office furniture,circuit 7
+Setra Power Battalion 48,ELEUV0202SM3Db,UVA,,206 Olsson,Receptacles,circuit 28
+Setra Power Battalion 48,ELEUV0202SM3Cc,UVA,,229 Olsson,Office furniture,circuit 6
+Setra Power Battalion 48,ELEUV0202SM3Cb,UVA,,229 Olsson,Office furniture,circuit 4
+Setra Power Battalion 48,ELEUV0202SM3Ca,UVA,,229 Olsson,Office furniture,circuit 2
+Setra Power Battalion 48,ELEUV0202SM3Ba,UVA,,240 Olsson,Receptacles,circuit 25
+Setra Power Battalion 48,ELEUV0202SM3Ac,UVA,,229 Olsson,Office furniture,circuit 5
+Setra Power Battalion 48,ELEUV0202SM3Ab,UVA,,229 Olsson,Office furniture,circuit 3
+Setra Power Battalion 48,ELEUV0202SM3Aa,UVA,,229 Olsson,Office furniture,circuit 1
+Setra Power Battalion 48,ELEUV0202SM2Oc,UVA,,208 Olsson,Microwave,circuit 66
+Setra Power Battalion 48,ELEUV0202SM2Ob,UVA,,208 Olsson,Receptacles,circuit 64
+Setra Power Battalion 48,ELEUV0202SM2Oa,UVA,,210 Olsson,Receptacles,circuit 62
+Setra Power Battalion 48,ELEUV0202SM2Mc,UVA,,255 Olsson,Office power,circuit 24
+Setra Power Battalion 48,ELEUV0202SM2Mb,UVA,,276 Olsson,Office furniture,circuit 22
+Setra Power Battalion 48,ELEUV0202SM2Ma,UVA,,276 Olsson,Office furniture,circuit 20
+Setra Power Battalion 48,ELEUV0202SM2Lc,UVA,,213 Olsson,Office furniture,circuit 84
+Setra Power Battalion 48,ELEUV0202SM2Lb,UVA,,213 Olsson,Office furniture,circuit 82
+Setra Power Battalion 48,ELEUV0202SM2La,UVA,,213 Olsson,Office furniture,circuit 80
+Setra Power Battalion 48,ELEUV0202SM2Kc,UVA,,213 Olsson,Receptacles,circuit 60
+Setra Power Battalion 48,ELEUV0202SM2Kb,UVA,,217 Olsson,Receptacles,circuit 58
+Setra Power Battalion 48,ELEUV0202SM2Ka,UVA,,225 Olsson,Receptacles,circuit 56
+Setra Power Battalion 48,ELEUV0202SM2Jc,UVA,,240 Olsson,Office furniture,circuit 42
+Setra Power Battalion 48,ELEUV0202SM2Jb,UVA,,240 Olsson,Office furniture,circuit 40
+Setra Power Battalion 48,ELEUV0202SM2Ja,UVA,,243 Olsson,Receptacles,circuit 38
+Setra Power Battalion 48,ELEUV0202SM2Ic,UVA,,276 Olsson,Office furniture,circuit 18
+Setra Power Battalion 48,ELEUV0202SM2Ib,UVA,,279 Olsson,Office power,circuit 16
+Setra Power Battalion 48,ELEUV0202SM2Ia,UVA,,283 Olsson,Office power,circuit 14
+Setra Power Battalion 48,ELEUV0202SM2Hc,UVA,,229 Olsson,Receptacles,circuit 78
+Setra Power Battalion 48,ELEUV0202SM2Hb,UVA,,213 Olsson,Receptacles,circuit 76
+Setra Power Battalion 48,ELEUV0202SM2Ha,UVA,,203 Olsson,Projector,circuit 74
+Setra Power Battalion 48,ELEUV0202SM2Gc,UVA,,218 Olsson,Copier,circuit 54
+Setra Power Battalion 48,ELEUV0202SM2Gb,UVA,,218 Olsson,Receptacles,circuit 52
+Setra Power Battalion 48,ELEUV0202SM2Ga,UVA,,260 Olsson,Receptacles,circuit 50
+Setra Power Battalion 48,ELEUV0202SM2Fc,UVA,,247 Olsson,Receptacles,circuit 36
+Setra Power Battalion 48,ELEUV0202SM2Fb,UVA,,251 Olsson,Receptacles,circuit 34
+Setra Power Battalion 48,ELEUV0202SM2Fa,UVA,,259 Olsson,Office power,circuit 32
+Setra Power Battalion 48,ELEUV0202SM2Ec,UVA,,283 Olsson,Office power,circuit 12
+Setra Power Battalion 48,ELEUV0202SM2Eb,UVA,,286 Olsson,Office power,circuit 10
+Setra Power Battalion 48,ELEUV0202SM2Ea,UVA,,285 Olsson,Office power,circuit 8
+Setra Power Battalion 48,ELEUV0202SM2Dc,UVA,,200 Olsson,Floor Box,circuit 72
+Setra Power Battalion 48,ELEUV0202SM2Db,UVA,,206 Olsson,Receptacles,circuit 70
+Setra Power Battalion 48,ELEUV0202SM2Da,UVA,,208 Olsson,Microwave,circuit 68
+Setra Power Battalion 48,ELEUV0202SM2Cc,UVA,,256 Olsson,Office power,circuit 48
+Setra Power Battalion 48,ELEUV0202SM2Cb,UVA,,240 Olsson,Office furniture,circuit 46
+Setra Power Battalion 48,ELEUV0202SM2Ca,UVA,,240 Olsson,Office furniture,circuit 44
+Setra Power Battalion 48,ELEUV0202SM2Bc,UVA,,261 Olsson,Office power,circuit 30
+Setra Power Battalion 48,ELEUV0202SM2Bb,UVA,,263 Olsson,Office power,circuit 28
+Setra Power Battalion 48,ELEUV0202SM2Ba,UVA,,265 Olsson,Office power,circuit 26
+Setra Power Battalion 48,ELEUV0202SM2Ac,UVA,,201 Olsson,Receptacles,circuit 6
+Setra Power Battalion 48,ELEUV0202SM2Ab,UVA,,203 Olsson,Receptacles,circuit 4
+Setra Power Battalion 48,ELEUV0202SM2Aa,UVA,,203 Olsson,Receptacles,circuit 2
+Setra Power Battalion 48,ELEUV0202SM1Pc,UVA,,2nd Floor Olsson,Left Panel Phase C,circuit 2L-1
+Setra Power Battalion 48,ELEUV0202SM1Pb,UVA,,2nd Floor Olsson,Left Panel Phase B,circuit 2L-1
+Setra Power Battalion 48,ELEUV0202SM1Pa,UVA,,2nd Floor Olsson,Left Panel Phase A,circuit 2L-1
+Setra Power Battalion 48,ELEUV0202SM1Oc,UVA,,208 Olsson,Refrigerator/Ice Maker,circuit 65
+Setra Power Battalion 48,ELEUV0202SM1Ob,UVA,,211 Olsson,Receptacles,circuit 63
+Setra Power Battalion 48,ELEUV0202SM1Oa,UVA,,211 Olsson,Receptacles,circuit 61
+Setra Power Battalion 48,ELEUV0202SM1Mc,UVA,,273 Olsson,Office power,circuit 23
+Setra Power Battalion 48,ELEUV0202SM1Mb,UVA,,270 Olsson,Office furniture,circuit 21
+Setra Power Battalion 48,ELEUV0202SM1Ma,UVA,,270 Olsson,Office furniture,circuit 19
+Setra Power Battalion 48,ELEUV0202SM1Lc,UVA,,213 Olsson,Office furniture,circuit 83
+Setra Power Battalion 48,ELEUV0202SM1Lb,UVA,,213 Olsson,Office furniture,circuit 81
+Setra Power Battalion 48,ELEUV0202SM1La,UVA,,213 Olsson,Office furniture,circuit 79
+Setra Power Battalion 48,ELEUV0202SM1Kc,UVA,,213 Olsson,Office furniture,circuit 59
+Setra Power Battalion 48,ELEUV0202SM1Kb,UVA,,213 Olsson,Office furniture,circuit 57
+Setra Power Battalion 48,ELEUV0202SM1Ka,UVA,,219 Olsson,Receptacles,circuit 55
+Setra Power Battalion 48,ELEUV0202SM1Jc,UVA,,240 Olsson,Office furniture,circuit 41
+Setra Power Battalion 48,ELEUV0202SM1Jb,UVA,,241 Olsson,Office power,circuit 39
+Setra Power Battalion 48,ELEUV0202SM1Ja,UVA,,245 Olsson,Office power,circuit 37
+Setra Power Battalion 48,ELEUV0202SM1Ic,UVA,,270 Olsson,Office furniture,circuit 17
+Setra Power Battalion 48,ELEUV0202SM1Ib,UVA,,277 Olsson,Office power,circuit 15
+Setra Power Battalion 48,ELEUV0202SM1Ia,UVA,,281 Olsson,Office power,circuit 13
+Setra Power Battalion 48,ELEUV0202SM1Hc,UVA,,213 Olsson,Office furniture,circuit 77
+Setra Power Battalion 48,ELEUV0202SM1Hb,UVA,,203 Olsson,Projection Screen,circuit 75
+Setra Power Battalion 48,ELEUV0202SM1Ha,UVA,,208 Olsson,Receptacles,circuit 73
+Setra Power Battalion 48,ELEUV0202SM1Gc,UVA,,218 Olsson,Receptacles,circuit 53
+Setra Power Battalion 48,ELEUV0202SM1Gb,UVA,,218 Olsson,Receptacles,circuit 51
+Setra Power Battalion 48,ELEUV0202SM1Ga,UVA,,260 Olsson,Office power,circuit 49
+Setra Power Battalion 48,ELEUV0202SM1Fc,UVA,,249 Olsson,Office power,circuit 35
+Setra Power Battalion 48,ELEUV0202SM1Fb,UVA,,253 Olsson,Office power,circuit 33
+Setra Power Battalion 48,ELEUV0202SM1Fa,UVA,,257 Olsson,Office power,circuit 31
+Setra Power Battalion 48,ELEUV0202SM1Ec,UVA,,274 Olsson,Office power,circuit 11
+Setra Power Battalion 48,ELEUV0202SM1Eb,UVA,,201 Olsson,Receptacles,circuit 9
+Setra Power Battalion 48,ELEUV0202SM1Ea,UVA,,201 Olsson,Receptacles,circuit 7
+Setra Power Battalion 48,ELEUV0202SM1Dc,UVA,,208 Olsson,Receptacles,circuit 71
+Setra Power Battalion 48,ELEUV0202SM1Db,UVA,,208 Olsson,Receptacles,circuit 69
+Setra Power Battalion 48,ELEUV0202SM1Da,UVA,,208 Olsson,Receptacles,circuit 67
+Setra Power Battalion 48,ELEUV0202SM1Cc,UVA,,240 Olsson,Office furniture,circuit 47
+Setra Power Battalion 48,ELEUV0202SM1Cb,UVA,,240 Olsson,Office furniture,circuit 45
+Setra Power Battalion 48,ELEUV0202SM1Ca,UVA,,240 Olsson,Office furniture,circuit 43
+Setra Power Battalion 48,ELEUV0202SM1Bc,UVA,,269 Olsson,Office power,circuit 29
+Setra Power Battalion 48,ELEUV0202SM1Bb,UVA,,271 Olsson,Office power,circuit 27
+Setra Power Battalion 48,ELEUV0202SM1Ba,UVA,,273 Olsson,Office power,circuit 25
+Setra Power Battalion 48,ELEUV0202SM1Ac,UVA,,201 Olsson,Receptacles,circuit 5
+Setra Power Battalion 48,ELEUV0202SM1Ab,UVA,,201 Olsson,Receptacles,circuit 3
+Setra Power Battalion 48,ELEUV0202SM1Aa,UVA,,201 Olsson,Receptacles,circuit 1
+Dominion 30 Minute Data,dominion-5171072548,Dunlora,,Home,,
+Dominion 30 Minute Data,dominion-0213338585,852 St. Charles Ave,,Home,,
+MiniBeacon,c2007d000398,UVA,,201 Olsson,,
+MiniBeacon,c2007d000396,UVA,,C201 Olsson,"North, on Hardware Lab wall","4.68,16.88,1.1"
+MiniBeacon,c2007d000392,UVA,,270 Olsson,271 <-> 273,"15.58,5.08,1.1"
+MiniBeacon,c2007d000391,UVA,,217 Olsson,Outside east wall,"48.65,20.65,1.1"
+MiniBeacon,c2007d00038e,UVA,,240 Olsson,249 <-> 251,"52.45,3.14,1.1"
+MiniBeacon,c2007d00038c,UVA,,C260 Olsson,267 <-> 269,"22.12,5.08,1.1"
+MiniBeacon,c2007d00038a,UVA,,203 Olsson,,"12.65,22.63,1.1"
+MiniBeacon,c2007d000370,UVA,,221 Olsson,close to NE10 whiteboard,"39.98,24.37,1.1"
+MiniBeacon,c2007d00036f,UVA,,240 Olsson,SE-7 wall,"43.09,13.46,1.1"
+MiniBeacon,c2007d00036e,UVA,,218 Olsson,Outside,"49.89,16.88,1.1"
+MiniBeacon,c2007d00036a,UVA,,Olsson 225,South wall,"54.63,18.88,1.1"
+MiniBeacon,c2007d0000a0,UVA,,251 Olsson,,"49.85,0.41,1.1"
+MiniBeacon,c2007d00009f,UVA,,286 Olsson,,"7.79,9.97,1.1"
+MiniBeacon,c2007d00009e,UVA,,201 Olsson,West wall,"1.5,23.2,1.1"
+MiniBeacon,c2007d00009d,UVA,,240 Olsson,243 <-> 245,"56.41,7.64,1.1"
+MiniBeacon,c2007d00009c,UVA,,Olsson 274,opp. SW-5,"13.59,10.01,1.1"
+MiniBeacon,c2007d00009b,UVA,,208 Olsson,,"17.73,14.54,1.1"
+MiniBeacon,c2007d00009a,UVA,,C201 Olsson,"East, visitor side","8.05,16.06,1.1"
+MiniBeacon,c2007d000099,UVA,,240 Olsson,253 <-> 255,"44.95,5.08,1.1"
+MiniBeacon,c2007d000098,UVA,,C260 Olsson,259 <-> 261,"35.13,5.08,1.1"
+MiniBeacon,c2007d000097,UVA,,C260 Olsson,opp 263,"30.66,7.11,1.1"
+MiniBeacon,c2007d000096,UVA,,203 Olsson,,"13.0,26.87,1.1"
+MiniBeacon,c2007d000095,UVA,,201 Olsson,,"12.54,23.69,1.1"
+MiniBeacon,c2007d000094,UVA,,203 Olsson,,"28.63,28.86,1.1"
+MiniBeacon,c2007d000093,UVA,,241 Olsson,,"60.11,13.09,1.1"
+MiniBeacon,c2007d000092,UVA,,201 Olsson,,"1.63,30.4,1.1"
+MiniBeacon,c2007d000091,UVA,,201 Olsson,,"8.46,30.39,1.1"
+MiniBeacon,c2007d000090,UVA,,203 Olsson,,
+MiniBeacon,c2007d00008f,UVA,,203 Olsson,,"31.45,24.16,1.1"
+MiniBeacon,c2007d00008e,UVA,,203 Olsson,,"31.49,18.98,1.1"
+MiniBeacon,c2007d00008d,UVA,,217 Olsson,Outside,"43.12,18.71,1.1"
+MiniBeacon,c2007d000078,UVA,,221 Olsson,opp NE2,"31.71,26.85,1.1"
+MiniBeacon,c2007d000077,UVA,,221 Olsson,NE 11 <-> NE 13,"41.68,28.86,1.1"
+MiniBeacon,c2007d000076,UVA,,221 Olsson,NE22 <-> NE25,"48.7,28.83,1.1"
+MiniBeacon,c2007d000075,UVA,,221 Olsson,behind 217 (close to NE15),"43.35,22.65,1.1"
+MiniBeacon,c2007d000074,UVA,,221 Olsson,East wall,"60.11,20.25,1.1"
+MiniBeacon,c2007d000072,UVA,,221 Olsson,East wall,"60.11,26.8,1.1"
+MiniBeacon,c2007d000071,UVA,,Olsson 217,East wall,"48.46,19.33,1.1"
+MiniBeacon,c2007d00006f,UVA,,221 Olsson,East wall,"60.11,23.49,1.1"
+MiniBeacon,c2007d00006e,UVA,,Olsson 225,North wall,"54.36,22.48,1.1"
+MiniBeacon,c2007d00006d,UVA,,240 Olsson,SE23 wall,"52.18,13.46,1.1"
+MiniBeacon,c2007d00006b,UVA,,240 Olsson,SE5 <-> SE1,"37.8,10.21,1.1"
+MiniBeacon,c2007d00006a,UVA,,Olsson 211,North wall,"33.79,24.2,1.1"
+MiniBeacon,c2007d000069,UVA,,225 Olsson,Outside,"57.51,18.71,1.1"
+MiniBeacon,c2007d000068,UVA,,225 Olsson,Outside west wall,"52.11,22.56,1.1"
+MiniBeacon,c2007d000067,UVA,,221 Olsson,NE37 <-> NE42,"55.84,30.42,1.1"
+MiniBeacon,c2007d000065,UVA,,Olsson 217,North wall,"45.3,22.48,1.1"
+MiniBeacon,c2007d000064,UVA,,260 Olsson,260 wall,"37.7,6.62,1.1"
+MiniBeacon,c2007d000063,UVA,,269 Olsson,,"19.29,1.97,1.1"
+MiniBeacon,c2007d000062,UVA,,203 Olsson,,"22.13,28.86,1.1"
+MiniBeacon,c2007d000061,UVA,,270 Olsson,SW-12 wall,"15.95,13.48,1.1"
+MiniBeacon,c2007d000060,UVA,,201 Olsson,,"1.46,16.99,1.1"
+MiniBeacon,c2007d00005f,UVA,,Olsson 276,,"5.2,10.13,1.1"
+MiniBeacon,c2007d00005c,UVA,,208 Olsson,,"19.89,13.98,1.1"
+MiniBeacon,c2007d00005a,UVA,,211 Olsson,Outside,"40.15,18.81,1.1"
+MiniBeacon,c2007d000059,UVA,,276 Olsson,275 <-> 277,"8.54,3.54,1.1"
+MiniBeacon,c2007d000052,UVA,,276 Olsson,281 <-> 283,"3.72,6.71,1.1"
+Gateway,c098e5c0003b,UVA,,204 Olsson,Edison v3 Gateway,In ceiling in arena.
+Gateway,c098e5c00038,UVA,,240 Olsson,Edison v3 Gateway,Corner of Kay's desk by walkway to main middle hallway.
+Gateway,c098e5c00036,UVA,,422 Rice,Edison v3 Gateway,
+Gateway,c098e5c00034,UVA,,257 Olsson,Edison v3 Gateway,
+Gateway,c098e5c00016,UVA,,303 Rice,Edison v2 Gateway,
+Gateway,c098e5c00006,UVA,,022 Rice,Edison v2 Gateway,In last server rack.
+Gateway,c098e5c00005,UVA,,221 Olsson,Edison v2 Gateway,
+PowerBlade,c098e570024a,UVA,,422 Rice,Printer,
+PowerBlade,c098e5700249,UVA,,422 Rice,Laptop,
+PowerBlade,c098e5700247,UVA,,022 Rice,Bitcoin Miner ASIC,
+PowerBlade,c098e5700246,UVA,,218 Olsson,Color printer,
+PowerBlade,c098e5700245,UVA,,241 Olsson,Oscilloscope,
+PowerBlade,c098e5700244,UVA,,241 Olsson,Black and white printer,
+PowerBlade,c098e5700241,UVA,,241 Olsson,Edimax Smart Plug,
+PowerBlade,c098e570015c,UVA,,241 Olsson,Mac Charger,
+PowerBlade,c098e570015b,UVA,,241 Olsson,WiTenergy,
+PowerBlade,c098e570015a,UVA,,257 Olsson,Laptop,
+PowerBlade,c098e5700159,UVA,,257 Olsson,Laptop Docking Station,
+PowerBlade,c098e5700158,UVA,,422 Rice,Monitor,
+PowerBlade,c098e5700157,UVA,,257 Olsson,Coffee Maker,
+PowerBlade,c098e5700156,UVA,,257 Olsson,Monitor,
+PowerBlade,c098e5700155,UVA,,257 Olsson,Printer,
+﻿PowerBlade,c098e5700149,UVA,,241 Olsson,Desktop,
+PowerBlade,c098e5700148,UVA,,241 Olsson,Monitor,
+PowerBlade,c098e5700146,852 St. Charles Ave,,Living Room,Home Theater PC,Bunjee Box
+PowerBlade,c098e57000a9,UVA,,251 Olsson,TV,
+PowerBlade,c098e570002f,852 St. Charles Ave,,Living Room,TV,
+Awair Sensor,awair-8884,852 St. Charles Ave,,Upstairs hallway,East wall,
+Awair Sensor,awair-8532,UVA,,257 Olsson,Under desk,
+Awair Sensor,awair-8198,UVA,,101b Olsson,In office,
+Awair Sensor,awair-7849,UVA,,241 Olsson,Under desk,
+Awair Sensor,awair-4019,UVA,,201 Olsson,By sink,
+Awair Sensor,awair-3509,UVA,,221 Olsson,NE 7,
+Awair Sensor,awair-3460,UVA,,Outside 274 Olsson,On north wall,
+Awair Sensor,awair-3446,UVA,,208 Olsson,In kitchenette left of sink,
+Awair Sensor,awair-3390,UVA,,240 Olsson,On north wall,
+Awair Sensor,awair-3358,UVA,,221 Olsson,NE corner,
+Awair Sensor,awair-3301,UVA,,201 Olsson,On cabinet,
+Awair Sensor,awair-3284,UVA,,Outside 269 Olsson,on east wall,
+Awair Sensor,awair-3242,UVA,,203 Olsson,North side of the arena,
+Awair Sensor,awair-3011,UVA,,Outside 217 Olsson,On north wall,
+Awair Sensor,awair-2992,UVA,,Outside 256 Olsson,On west wall,
+LoRaWAN Gateway,9CD57DFFFED203D0,UVA,,Aerospace Research Laboratory,Cisco IXM-LPWA-900-16-K9,dqb0mhmeh
+LoRaWAN Gateway,9CD47DFFFE9E0450,UVA,,Rice Hall,Cisco IXM-LPWA-900-16-K9 on rooftop.,dqb0m7qne
+LoRaWAN Gateway,80029CFFFE31459A,UVA,Environmental Institute,Networking Closet,BroWAN LoRaWAN Gateway,dqb0q56gz
+Awair Omni,70886b151395,UVA,,,,awair-omni_33142
+Awair Omni,70886b150ed7,UVA,,104 Olsson,South wall,awair-omni_32911
+Awair Omni,70886b150e64,UVA,,267 Olsson,on the wall,
+Awair Omni,70886b150e5e,UVA,,C100D Olsson,in the Booth,awair-omni_32797
+Awair Omni,70886b150e5d,UVA,,112 Olsson,East Wall,awair-omni_34048
+Awair Omni,70886b150d4b,UVA,,C113 Olsson,Wall By 113A,awair-omni_32636
+Awair Omni,70886b127d5c,UVA,,C113 Olsson,Wall by 113E,
+Awair Omni,70886b1277ca,UVA,Olsson Hall,275 Olsson,South wall by window,
+Awair Omni,70886b12778c,UVA,Olsson Hall,211 Olsson,Wall 4,
+Awair Omni,70886b127730,UVA,,211 Olsson,TV 1,
+Awair Sensor,70886b127653,852 St. Charles Ave,,Living room,West wall,
+Awair Omni,70886b127639,UVA,,211 Olsson,TV 4,
+Awair Omni,70886b12762f,UVA,,276 Olsson,Wall in front of 274,
+Awair Omni,70886b1275bc,UVA,,211 Olsson,Wall 3,
+Awair Omni,70886b126a7b,UVA,,221 Olsson,NE 18,
+Awair Omni,70886b126a0e,UVA,,211 Olsson,Whiteboard,
+Awair Omni,70886b126a0d,UVA,,111F Olsson,North Wall,
+Awair Omni,70886b126a04,UVA,,211 Olsson,Wall 6,
+Awair Omni,70886b12697a,UVA,,Olsson 251,South Wall,
+Awair Omni,70886b126976,UVA,,,,
+Awair Omni,70886b1268c6,UVA,,211 Olsson,Entrance 2,
+Awair Omni,70886b126329,UVA,,Rice 107,Middle of the wall opposite the door,
+Awair Omni,70886b12628e,UVA,,Rice 108,Middle of the wall opposite the door,
+Awair Omni,70886b126254,UVA,,Rice 109,Middle of the wall opposite the door,
+Awair Omni,70886b12624f,UVA,,112 Olsson ,South Wall,
+Awair Omni,70886b126223,UVA,,269 Olsson,on the wall,
+Awair Omni,70886b12621c,UVA,,Rice 130,left front wall,
+Awair Omni,70886b12600d,UVA,,Rice 130,right front wall,directly behind the podium
+Awair Omni,70886b125f1e,UVA,,281 Olsson,West wall by window,
+Awair Omni,70886b125efe,UVA,,,,
+Awair Omni,70886b125db1,UVA,,C111 Olsson,Wall across from 111H,
+Awair Sensor,70886b125d88,UVA,,203 Olsson,North wall near TV,
+Awair Omni,70886b125d72,UVA,,104 Olsson,North Wall,
+Awair Omni,70886b125d64,UVA,,C211 Olsson,Last cubby across from 225,
+Awair Omni,70886b1259c5,UVA,,Rice 130,center rear wall,next to the AV room window
+Awair Omni,70886b125971,UVA,,124 Rice,Exit hallway,
+Awair Omni,70886b125400,UVA,,Rice 130,right rear wall,
+Awair Omni,70886b12537c,UVA,,221 Olsson,NE 42,
+Awair Omni,70886b12532b,UVA,,221 Olsson,NE 8,
+Awair Omni,70886b123c41,UVA,,277 Olsson,South wall by window,
+Awair Omni,70886b123c0b,UVA,,C210 Olsson,Elevator Area,
+Awair Omni,70886b123bc8,UVA,,243 Olsson,,
+Awair Omni,70886b123b83,UVA,,211 Olsson,Table 2,
+Awair Omni,70886b123b81,UVA,,211 Olsson,Back Wall,
+Awair Omni,70886b123a62,UVA,,225 Olsson,Table Front,
+Awair Omni,70886b123a60,UVA,,218 Olsson,On wall in printer room,
+Awair Omni,70886b1239a5,UVA,,120 Olsson,Classroom,
+Awair Omni,70886b123992,UVA,,211 Olsson,Entrance 1,
+Awair Omni,70886b123962,UVA,,211 Olsson,Table 3,
+Awair Omni,70886b12395b,UVA,,211 Olsson,TV 3,
+Awair Omni,70886b123935,UVA,,240 Olsson,SE Seating,
+Awair Omni,70886b1238b9,UVA,,005 Olsson,,
+Awair Omni,70886b1238b5,UVA,,211 Olsson,TV 2,
+Awair Omni,70886b123735,UVA,,211 Olsson,Table 1,
+Awair Omni,70886b1235d7,UVA,,255 Olsson,,6
+Awair Omni,70886b1235d4,UVA,,275 Olsson,,8
+Awair Omni,70886b123507,UVA,,217 Olsson,,14
+Awair Omni,70886b1234a0,UVA,,211 Olsson,Wall 1,
+Awair Omni,70886b12349c,UVA,,221 Olsson,NE 11,9
+Awair Omni,70886b123368,UVA,,251 Olsson (before 2023.02.24),South wall (before 2023.02.24),Removed due to the noise
+Awair Omni,70886b12335b,UVA,,C211 Olsson,Work cubby,11
+Awair Omni,70886b1232f1,UVA,,245 Olsson,,13
+Awair Omni,70886b1230f2,UVA,,275 Olsson,,
+Awair Omni,70886b123059,UVA,,275 Olsson,On the table,4
+Awair Omni,70886b123039,UVA,,241 Olsson,North wall,12
+Awair Omni,70886b122593,UVA,,204 Olsson,,1
+Dual Motion,5073696,UVA,,204 Olsson,On lights near ceiling,
+LoRaWAN Gateway,2CF7F11153100092,852 St. Charles Ave,House,Closet,Seeed LoRaWAN Gateway,dqb0qkt1t
+LoRa Temp Humidity Sensor,24E124136D324738,UVA,,GilmerHall-inside,Inside the wardrobe in the Gilmer 301.,dqb0m7uvj
+LoRa Temp Humidity Sensor,24E124136D324704,UVA,,GilmerHall-outside,Near the entrance door and the Gilmer Hall sign.,dqb0m7uvj
+LoRa Temp Humidity Sensor,24E124136D324647,UVA,,ThorntonHall(WingC)-inside,On top of a graduate student's desk on the left in room C314. ,dqb0m7wur
+LoRa Temp Humidity Sensor,24E124136D324618,UVA,,WilsdorfHall-inside,Behind the bookshelf next to the window in room 322 (material science).,dqb0m7vbj
+LoRa Temp Humidity Sensor,24E124136D324601,UVA,,WilsdorfHall-outside, Beside the door in the 3rd level corridor between the two buildings.,dqb0m7vbj
+LoRa Temp Humidity Sensor,24E124136D321391,UVA,,ThorntonHall(WingC)-outside,On top of the door next to the C-Wing entrance.,dqb0m7wuz
+LoRa Temp Humidity Sensor,24E124136D321332,UVA,,LinkLab-inside,In the Makers lab on the frame of the window next to the LL entrance door. ,dqb0m7w1j
+LoRa Temp Humidity Sensor,24E124136C196571,UVA,,LinkLab-outside,The device is located on top of the main entrance door.,dqb0m7w1h
+LoRa Outdoor Environment Monitoring Sensor,24E124126B222403,UVA,,Datdent Court Yard,On the corridor wall near the C-Wing entrance door.,dqb0m7wut
+Awair Sensor,211-omni_9,UVA,,211 Olsson,East wall- 1.8m,
+Door Sensor,05920ca5,UVA,,221 Olsson,Door between 221 and arena,
+"EMCSU-contact
+",05920c9b,"HO
+",,,,
+"EMCSU-contact
+",0591fe4c,HO,,,,
+Door Sensor,0591ef8f,UVA,,C210 Olsson,On door from elevators to Link Lab,
+"EMCSU-contact
+",0591ef6d,"HO
+",,,,
+"EMCSU-contact
+",0591ef61,"HO
+",,,,
+Door Sensor,0591ef5d,UVA,,203 Olsson,On door front entrance to arena,
+"EMCSU-contact
+",0591ef57,"HO
+",,,,
+Door Sensor,0591ef54,UVA,,256 Olsson,Door to office,
+"EMCSU-contact
+",0591ef51,"HO
+",,,,
+Door Sensor,0591ef47,UVA,,C230 Olsson,On door to stairwell from Link Lab,
+"EMCSU-contact
+",0591ef25,"HO
+",,,,
+"EMCSU-contact
+",0591ef24,"HO
+",,,,
+"EMCSU-contact
+",0591ef10,"HO
+",,,,
+EMCSU-contact,0591eee6,prep zone,,,,
+Dual Tech Motion Sensor,0583cec6,UVA,,281 Olsson,On ceiling,
+Dual Tech Motion Sensor,0580d976,UVA,,275 Olsson,On ceiling,
+Dual Motion,0580b1cd,UVA,,283 Olsson,On ceiling,
+Dual Tech Motion Sensor,0580b1c1,UVA,,255 Olsson,On ceiling,
+Dual Tech Motion Sensor,0580b1ae,UVA,,265 Olsson,On ceiling,
+Dual Tech Motion Sensor,0512871d,UVA,,269 Olsson,On ceiling,
+Dual Tech Motion Sensor,051087b1,UVA,,263 Olsson,On ceiling,
+Dual Tech Motion Sensor,050d95a0,UVA,,303 Rice,Ceiling,
+Dual Tech Motion Sensor,050d8c55,UVA,,273 Olsson,On ceiling,
+Dual Tech Motion Sensor,050d856f,UVA,,304 Rice,Ceiling,
+Dual Tech Motion Sensor,050d7b30,UVA,,277 Olsson,On ceiling,
+Dual Motion,050d7773,UVA,,245 Olsson,On ceiling,
+Dual Tech Motion Sensor,050d69ce,UVA,,241 Olsson,Ceiling,
+Dual Tech Motion Sensor,050d6990,UVA,,225 Olsson,On lights near ceiling,
+Dual Tech Motion Sensor,050d68bf,UVA,,217 Olsson,On lights near ceiling,
+Dual Tech Motion Sensor,050d5e42,UVA,,257 Olsson,On ceiling,
+Dual Tech Motion Sensor,05083a3c,UVA,,211 Olsson,On lights near ceiling,
+LightLevel,0506ed3a,UVA,,257 Olsson,,
+LightLevel,0506ebe7,UVA,,201 Olsson,West side,
+LightLevel,0506dac8,UVA,,285 Olsson,,
+LightLevel,0506da67,UVA,,267 Olsson,,
+LightLevel,0506da3f,UVA,,203 Olsson,Near whiteboard,
+LightLevel,0506d2de,UVA,,255 Olsson,,
+LightLevel,0506d2cd,UVA,,201 Olsson,North side,
+LightLevel,0506d2af,UVA,,221 Olsson,Student Seating Area (near back wall),
+LightLevel,5062500,prep,,,,
+LightLevel,050624f0,UVA,,283 Olsson,,
+LightLevel,050624d8,UVA,,279 Olsson,,
+LightLevel,050623c9,UVA,,249 Olsson,,
+LightLevel,5062343,UVA,,C211 Olsson,On ceiling outside 225 Olsson (hall near back wall),
+LightLevel,0506221e,UVA,,221 Olsson,Student Seating Area (back corner),
+LightLevel,0506220c,prep,,,,
+LightLevel,5062206,UVA,,225 Olsson,On ceiling,
+LightLevel,050621d0,prep,,,,
+LightLevel,050621c6,UVA,,217 Olsson,,
+LightLevel,050621b7,prep,,,,
+LightLevel,050621a8,UVA,,241 Olsson,Ceiling,
+LightLevel,050621a5,UVA,,221 Olsson,Student Seating Area (near 217 Olsson),
+"LightLevel
+",05061ccc,UVA,,203 Olsson,Near north windows by 201 Olsson,
+LightLevel,050611d1,UVA,,221 Olsson,Student Seating Area (near 211 Olsson),
+LightLevel,050611bc,UVA,,Testing Sensor,On Table,
+LightLevel,050611b5,prep,,,,
+LightLevel,050611b2,prep,,,,
+LightLevel,0506118e,UVA,,261 Olsson,,
+LightLevel,5061167,UVA,,245 Olsson,On ceiling,
+LightLevel,5061162,UVA,,275 Olsson,On ceiling,
+LightLevel,0506115f,UVA,,265 Olsson,,
+LightLevel,050610a6,UVA,,273 Olsson,,
+LightLevel,050610a1,prep,,,,
+LightLevel,0506109d,UVA,,251 Olsson,,
+LightLevel,05060eba,UVA,,271 Olsson,,
+LightLevel,05060eb7,UVA,,C211 Olsson,Outside 225 Olsson (towards corner),
+LightLevel,05060ead,UVA,,269 Olsson,,
+LightLevel,05060e9a,UVA,,253 Olsson,,
+LightLevel,5.06E+73,UVA,,243 Olsson,On ceiling,
+LightLevel,5.06E+73,UVA,,243 Olsson,On Ceiling,
+LightLevel,5.06E+49,prep,,,,
+Ceiling Facing Dark Corner,5.06E+44,UVA,,259 Olsson,,
+LightLevel,05060de0,prep,,,,
+LightLevel,05060dd8,UVA,,218 Olsson,,
+LightLevel,05060dc2,UVA,,263 Olsson,On ceiling,
+LightLevel,05060cd9,UVA,,203 Olsson,Middle on ceiling,
+LightLevel,05060ca0,UVA,,211 Olsson,On Ceiling,
+STM 550U,0413d730,ALAN,,position_5,,
+STM 550U,0413d711,ALAN,,test,,
+HVAC Zone,0202Floors2C213,UVA,,C213 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2C210,UVA,,C210 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2C200,UVA,,C200 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2286,UVA,,286 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2285,UVA,,285 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2283,UVA,,283 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2281,UVA,,281 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2279,UVA,,279 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2277,UVA,,277 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2276,UVA,,276 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2275,UVA,,275 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2274,UVA,,274 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2273,UVA,,273 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2271,UVA,,271 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2270,UVA,,270 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2269,UVA,,269 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2267,UVA,,267 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2265,UVA,,265 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2263,UVA,,263 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2261,UVA,,261 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2260,UVA,,260 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2259,UVA,,259 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2257,UVA,,257 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2256,UVA,,256 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2255,UVA,,255 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2253,UVA,,253 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2251,UVA,,251 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2249,UVA,,249 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2247,UVA,,247 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2245,UVA,,245 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2243,UVA,,243 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2241,UVA,,241 Olsson,HVAC Zone,
+HVAC Zone,0202Floors22402,UVA,,240 Olsson,HVAC Zone 2,
+HVAC Zone,0202Floors22401,UVA,,240 Olsson,HVAC Zone 1,
+HVAC Zone,0202Floors2231,UVA,,231 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2225,UVA,,225 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2221,UVA,,221 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2218,UVA,,218 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2217,UVA,,217 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2213,UVA,,213 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2211,UVA,,211 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2208,UVA,,208 Olsson,HVAC Zone,
+HVAC Zone,0202Floors2204,UVA,,204 Olsson,HVAC Zone,
+HVAC Zone,0202Floors22033,UVA,,203 Olsson,HVAC Zone 3,
+HVAC Zone,0202Floors22032,UVA,,203 Olsson,HVAC Zone 2,
+HVAC Zone,0202Floors22031,UVA,,203 Olsson,HVAC Zone 1,
+HVAC Zone,0202Floors22012,UVA,,201 Olsson,HVAC Zone 2,
+HVAC Zone,0202Floors22011,UVA,,201 Olsson,HVAC Zone 1,
+HVAC Equipment,0202EquipmentAHU2W,UVA,,2nd Floor Olsson,Air Handling Unit,
+HVAC Equipment,0202EquipmentAHU2E,UVA,,2nd Floor Olsson,Air Handling Unit,
+LightLevel,019944b5,prep,,,,
+Dual Tech Motion Sensor,0197303a,UVA,,251 Olsson,On ceiling,
+CO2 Sensor,01939f0a,UVA,,257 Olsson,South wall,
+CO2 Sensor,01932c37,UVA,,422 Rice,West wall,
+Temp Humidity Sensor,018a47e0,UVA,,275 Olsson,Near door,TH-41
+Temp Humidity Sensor,018a4759,UVA,,283 Olsson,Near door,TH-40
+Temp Humidity Sensor,018a4741,UVA,,265 Olsson,Near door,TH-39
+TempHumidity,018a4677,prep,,,,
+Temp Humidity Sensor,018a461f,UVA,,263 Olsson,Near door,TH-38
+Temp Humidity Sensor,018a4519,UVA,,304 Rice,West wall,
+Temp Humidity Sensor,018a44ff,UVA,,422 Rice,Near door,
+Temp Humidity Sensor,018a44b5,UVA,,240 Olsson,North wall near east stairwell,TH-35
+TempHumidity,018a347a,prep,,,,
+Temp Humidity Sensor,018a343d,UVA,,208 Olsson,Kitchen East Wall Near Fridge,TH-34
+Temp Humidity Sensor,018a33c5,UVA,,241 Olsson,Near door,TH-33
+Temp Humidity Sensor,018a33be,UVA,,201 Olsson,Near door,
+Temp Humidity Sensor,018a32d6,UVA,,C201 Olsson,Front desk entrance near door,TH-31
+Temp Humidity Sensor,018a3195,UVA,,286 Olsson,Near door,TH-30
+Temp Humidity Sensor,018a315a,UVA,,221 Olsson,Northern wall in NE seating,TH-29
+Temp Humidity Sensor,018a30c9,UVA,,211 Olsson,South wall by door,TH-28
+TempHumidity,018a2fb4,prep,,,,
+Temp Humidity Sensor,018a2fab,UVA,,277 Olsson,West wall,
+Temp Humidity Sensor,018a2e6d,UVA,,243 Olsson,South wall,TH-27
+TempHumidity,018a2e65,prep,,,,
+Temp Humidity Sensor,018a2d70,UVA,,201 Olsson,East Wall,
+Temp Humidity Sensor,018a2cd7,UVA,,204 Olsson,Near door,TH-25
+Temp Humidity Sensor,018a2c81,UVA,,217 Olsson,South wall by door,TH-24
+Temp Humidity Sensor,018a2adf,UVA,,274 Olsson,near door,
+Temp Humidity Sensor,018a2ac3,UVA,,C210 Olsson,Elevator Hallway Olsson,TH-22
+TempHumidity,018a2a35,prep,,,,
+Temp Humidity Sensor,018a29cc,UVA,,Outside 2nd Floor,Outside window to 241 Olsson,
+Temp Humidity Sensor,018a29bd,UVA,,245 Olsson,South wall,TH-20
+Temp Humidity Sensor,018a2933,UVA,,270 Olsson,Back wall across from room 269,TH-19
+TempHumidity,018a2914,prep,,,,
+Temp Humidity Sensor,018a27f4,UVA,,225 Olsson,South wall by door,TH-18
+Temp Humidity Sensor,018A27D0,UVA,,,Testing sensor,
+Temp Humidity Sensor,018a27a2,UVA,,259 Olsson,near door,TH-17
+Temp Humidity Sensor,018a271b,UVA,,221 Olsson,"East Wall, near student seating area",TH-16
+Temp Humidity Sensor,018a26d6,UVA,,303 Rice,North wall,
+Temp Humidity Sensor,018a26ba,UVA,,203 Olsson,Western North Wall Near the Corner,TH-14
+Temp Humidity Sensor,018a242d,UVA,,251 Olsson,East wall near door,TH-13
+TempHumidity,018a23b7,prep,,,,
+TempHumidity,018a21cb,prep,,,,
+TempHumidity,018a21b5,prep,,,,
+Temp Humidity Sensor,018a2167,UVA,,281 Olsson,Near Door,TH-12
+Temp Humidity Sensor,018a2154,UVA,,C230 Olsson,In stairwell on second floor,TH-11
+Temp Humidity Sensor,018a2136,UVA,,273 Olsson,Near door,TH-10
+Temp Humidity Sensor,018a2123,UVA,,271 Olsson,,TH-9
+Temp Humidity Sensor,018a2087,UVA,,276 Olsson,West wall near opening to front desk,TH-8
+TempHumidity,018a205b,prep,,,,
+Temp Humidity Sensor,018a1f0e,UVA,,260 Olsson,Near door,TH-7
+Temp Humidity Sensor,018a1f05,UVA,,218 Olsson,,TH-6
+Temp Humidity Sensor,018a1e13,UVA,,269 Olsson,,TH-5
+Temp Humidity Sensor,018a1dfd,UVA,,203 Olsson,Arena to the right of projector whiteboard,TH-4
+Temp Humidity Sensor,018a1df9,UVA,,221 Olsson,On south wall shared with 211 near door to arena,TH-3
+CO2 Sensor,018984f9,UVA,,241 Olsson,North wall,
+TempHumidity,0184a21cb,prep,,,,
+Door Sensor,0183436d,UVA,,245 Olsson,On door,
+Door Sensor,0183436c,UVA,,281 Olsson,Window,
+Door Sensor,1834365,UVA,,251 Olsson,On door,
+Door Sensor,1834352,UVA,,281 Olsson,On door,
+Door Sensor,1834351,UVA,,275 Olsson,On door,
+Door Sensor,1834349,UVA,,283 Olsson,Window,
+Door Sensor,018342ee,UVA,,257 Olsson,Window,
+Door Sensor,1.83E+10,UVA,,263 Olsson,Window,
+Door Sensor,018342de,UVA,,204 Olsson,On door,
+Door Sensor,018342dc,UVA,,241 Olsson,Window,
+Door Sensor,018342db,UVA,,304 Rice,On door,
+Door Sensor,018342d8,UVA,,271 Olsson,On door,
+Door Sensor,018342d6,UVA,,front desk entrance Olsson ,On door,
+Door Sensor,1834275,UVA,,273 Olsson,On door,
+Door Sensor,1834270,UVA,,265 Olsson,Window,
+Door Sensor,0183426f,UVA,,251 Olsson,On window,
+Door Sensor,1834254,UVA,,263 Olsson,On door,
+Door Sensor,018341d0,UVA,,303 Rice,On door,
+Door Sensor,018341b0,UVA,,422 Rice,On door,
+Door Sensor,018341ac,UVA,,274 Olsson,On door,
+Door Sensor,018341ab,UVA,,257 Olsson,On window,
+Door Sensor,018341a1,UVA,,260 Olsson,On door,
+Door Sensor,0183419f,UVA,,245 Olsson,Window,
+Door Sensor,0183419d,UVA,,201 Olsson,On door to hardware lab,
+Door Sensor,0183419b,UVA,,277 Olsson,On door,
+Door Sensor,1834188,UVA,,211 Olsson,On door,
+Door Sensor,1834186,UVA,,269 Olsson,Window,
+Door Sensor,018330f8,UVA,,257 Olsson,Near door,
+Temp Humidity Sensor,018317c3,UVA,,257 Olsson,Near door,TH-2
+Door Sensor,018169f7,UVA,,217 Olsson,On door,
+Door Sensor,018168b6,UVA,,286 Olsson,On door,
+Door Sensor,1816234,UVA,,225 Olsson,On door,
+Door Sensor,1816224,UVA,,283 Olsson,On door,
+Door Sensor,1815241,UVA,,265 Olsson,On door,
+Door Sensor,018151d9,UVA,,257 Olsson,On door,
+Door Sensor,01814dd0,UVA,,241 Olsson,On door,
+Motion Sensor,00889a35,UVA,,422 Rice,Near door,
+Motion,8.88E+95,UVA,,241 Olsson,Near door,
+Motion Sensor,00880cc5,UVA,,257 Olsson,East wall,
+Rocker Pad,003917b5,UVA,,203 Olsson,Feelings board - good,
+Rocker Pad,0039159b,UVA,,203 Olsson,Feelings board - ok,
+Rocker Pad,0038cdbd,UVA,,203 Olsson,Feelings board - bad,
+Irisys Vector 4D,0021ac043adf,UVA,,211 Olsson,Ceiling by door,Room occupancy sensor
