@@ -1,4 +1,4 @@
-# uva-linklab-influx
+# uva-linklab-influx-operation
 For now, this project handles the linklab.influx operation in Python with the following implementations
 - Part1: A python interface to access Living Link Lab data
 - Part2: A Python interface to check device_status in the Link Lab according to certain device (or called sensor) type
