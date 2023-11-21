@@ -30,3 +30,20 @@ Please refer to [influx_python_interface:Part 2](https://github.com/AustinFengYi
 - After that, you should also have access to get link lab sensor data from [influx.linklab](https://infrastructure.linklab.virginia.edu/linklabcloud/index.html)
 
 Run the command according to the certian device type
+
+
+| Awair Omni | LightLevel | Temp Humidity Sensor |
+| -------- | -------- | -------- |
+| `python3 awair_omni.py`    | `python3 light_level.py`    | `python3 temp_humidity.py`     |
+|Amount in metadata|Amount in metadata|Amount in metadata|
+|Status: Online|Status: Online|Status: Online|
+|Status: Offline|Status: Offline|Status: Offline|
+
+
+
+| LoRa Temp Humidity Sensor | Door Sensor | Setra Power Battalion 48 |
+| -------- | -------- | -------- |
+| `python3 awair_omni.py`    | `python3 door_sensor.py`    | `python3 setra_power_battalion_48.py`     |
+|Amount in metadata|Amount in metadata|Amount in metadata|
+|Status: Online|Status: Online|Status: Online|
+|Status: Offline|Status: Offline|Status: Offline|
