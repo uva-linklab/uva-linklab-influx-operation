@@ -12,11 +12,17 @@ Subsequently, please refer [influx_python_interface.ipynb](https://github.com/Au
 
 Also, the Python file program is implemented in [show_device_status](https://github.com/AustinFengYi/uva-linklab-influx-operation/tree/main/show_device_status) directory to specifiaclly describe how to check [online/offline] status from each of certain devices' type. Currently, the following device type has been implemented.
 - Awair Omni
+    - [`Humidity_%`, `Temperature_°C`, `awair_score`, `pm2.5_μg/m3`, `co2_ppm`, `voc_ppb`, `battery_%`]
 - LightLevel
+    - [`Illumination_lx`, `rssi`]
 - Temp Humidity Sensor (TempHumidity)
+    - [`Humidity_%`, `Temperature_°C`]
 - LoRa Temp Humidity Sensor
+    - [`Humidity_%`, `Temperature_°C`]
 - Door Sensor
+    - [`rssi`, `Contact`]
 - Setra Power Battalion 48
+    - [`voltage_v`]
 
 
 <img width="700" alt="2nd sensor temp humid" src="https://github.com/AustinFengYi/uva-linklab-influx/assets/22648364/738a110c-2ee5-4de1-96b2-1e25f3d375f5"> 
