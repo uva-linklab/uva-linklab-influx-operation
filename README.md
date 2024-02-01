@@ -31,10 +31,10 @@ Also, the Python file program is implemented in [show_device_status](https://git
     - [Rate: 1min]
 - [LoRa Water Ultrasonic Sensor](https://nam1.cloud.thethings.network/console/applications/dl-mbx)
     - [`voltage_v`,`number_int`,`altitude_m`]
-    - [Rate: 1min]
+    - [Rate: 10min]
 - [LoRa Water Pressure Sensor](https://nam1.cloud.thethings.network/console/applications/dl-pr-26)
     - [`voltage_v`,`Temperature_°C`,`pressure_hPa`]
-    - [Rate: 1min]
+    - [Rate: 10min]
 
 
 <img width="700" alt="2nd sensor temp humid" src="https://github.com/AustinFengYi/uva-linklab-influx/assets/22648364/738a110c-2ee5-4de1-96b2-1e25f3d375f5"> 
