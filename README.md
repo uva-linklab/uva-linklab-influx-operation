@@ -30,10 +30,10 @@ Also, the Python file program is implemented in [show_device_status](https://git
     - [`voltage_v`]
     - [Rate: 1min]
 - [LoRa Water Ultrasonic Sensor](https://nam1.cloud.thethings.network/console/applications/dl-mbx)
-    - [`voltage_v`]
+    - [`voltage_v`,`number_int`,`altitude_m`]
     - [Rate: 1min]
 - [LoRa Water Pressure Sensor](https://nam1.cloud.thethings.network/console/applications/dl-pr-26)
-    - [`voltage_v`]
+    - [`voltage_v`,`Temperature_°C`,`pressure_hPa`]
     - [Rate: 1min]
 
 
