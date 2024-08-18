@@ -12,11 +12,29 @@ Subsequently, please refer [influx_python_interface.ipynb](https://github.com/Au
 
 Also, the Python file program is implemented in [show_device_status](https://github.com/AustinFengYi/uva-linklab-influx-operation/tree/main/show_device_status) directory to specifiaclly describe how to check [online/offline] status from each of certain devices' type. Currently, the following device type has been implemented.
 - Awair Omni
+    - [`Humidity_%`, `Temperature_°C`, `awair_score`, `pm2.5_μg/m3`, `co2_ppm`, `voc_ppb`, `battery_%`]
+    - [Rate: 10sec]
 - LightLevel
+    - [`Illumination_lx`, `rssi`]
+    - [Rate: 30min]
 - Temp Humidity Sensor (TempHumidity)
-- LoRa Temp Humidity Sensor
+    - [`Humidity_%`, `Temperature_°C`]
+    - [Rate: 15min]
+- [LoRa Temp Humidity Sensor](https://nam1.cloud.thethings.network/console/applications/uva-engineers-way-sensors)
+    - [`Humidity_%`, `Temperature_°C`]
+    - [Rate: 5min]
 - Door Sensor
+    - [`rssi`, `Contact`]
+    - [Rate: 20min]
 - Setra Power Battalion 48
+    - [`voltage_v`]
+    - [Rate: 1min]
+- [LoRa Water Ultrasonic Sensor](https://nam1.cloud.thethings.network/console/applications/dl-mbx)
+    - [`voltage_v`,`number_int`,`altitude_m`]
+    - [Rate: 10min]
+- [LoRa Water Pressure Sensor](https://nam1.cloud.thethings.network/console/applications/dl-pr-26)
+    - [`voltage_v`,`Temperature_°C`,`pressure_hPa`]
+    - [Rate: 10min]
 
 
 <img width="700" alt="2nd sensor temp humid" src="https://github.com/AustinFengYi/uva-linklab-influx/assets/22648364/738a110c-2ee5-4de1-96b2-1e25f3d375f5"> 
