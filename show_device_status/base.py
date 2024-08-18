@@ -141,6 +141,7 @@ check_field_from_device_lookup = {
 # +------+------------+------------+---------------+--------------------+-------------+--------------------------+
 ''' Step 1: Get all devices that you request according to the device type
 '''
+
 def get_influx_devices_from_type(device_type):
     res = {}
     for idx , row in df.iterrows():
